@@ -5,6 +5,8 @@
 }
 
 body {
+  width: 100vh;
+  height: 100vh;
   color: #fff;
   font-family: 'Khula', sans-serif;
   height: 100vh;
